@@ -1,0 +1,91 @@
+{
+    "name": "About Me",
+    "children": [
+        {
+            "name": "Coding",
+            "children": [
+                { "name": "Develope Web Application" },
+                { "name": "Want To Learn Android" }
+            ]
+        },
+        {
+            "name": "Sports",
+            "children": [
+                {"name": "Cricket"},
+                { "name": "Batminton"},
+                { "name": "Chess"}
+            ]
+        },
+        {
+            "name": "Hobbies",
+            "children": [
+                {"name": "Dancing"},
+                {"name": "Listening Music"},
+                {"name": "Watching Series"}
+            ]
+        }
+        , {
+            "name": "Programing Skills",
+            "children": [
+                {
+                    "name": "Backend",
+                    "children": [
+                        { "name": "Hibernate" },
+                        { "name": "Springboot" },
+                        { "name": "Spring MVC" },
+                        { "name": "Spring Data Jpa" },
+                        { "name": "Spring Security" },
+                        { "name": "Collection" },
+                        { "name": "Jsp" },
+                        { "name": "Web flux" },
+                        { "name": "Java" }
+                    ]
+                },
+                {
+                    "name": "Frontend",
+                    "children": [
+                        { "name": "Angular" },
+                        { "name": "Angular Material" },
+                        { "name": "PrimeNg" },
+                        { "name": "rxgs" },
+                        { "name": "bootstrap" },
+                        { "name": "JavaScript" },
+                        { "name": "TypeScript" },
+                        { "name": "HTML" },
+                        { "name": "CSS" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Projects",
+            "children": [
+                {"name": "CLXCounselling"},
+                {"name": "CLXIQAC"},
+                {"name": "Employee Portal"},
+                {"name": "Student Portal"},
+                {"name": "CLXCounselling Portal"}
+            ]
+        },
+        {
+            "name": "Education",
+            "children": [
+                {"name": "BCA",
+                "children": [
+                    {"name": "SVIIT Gorakhpur"},
+                    {"name": "8.6 cgpa"}
+                ]},
+                {"name": "Intermediate",
+                "children": [
+                    {"name": "NIC Bidra"},
+                    {"name": "71%"}
+                ]},
+                {"name": "High School",
+                "children": [
+                    {"name": "RPJSSM Sidharth Nagar"},
+                    {"name": "81%"}
+                ]}
+            ]
+        }
+    ]
+}
